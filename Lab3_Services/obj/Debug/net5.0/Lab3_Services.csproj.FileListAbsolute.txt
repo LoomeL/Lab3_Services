@@ -1,0 +1,16 @@
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\bin\Debug\net5.0\Lab3_Services.exe
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\bin\Debug\net5.0\Lab3_Services.deps.json
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\bin\Debug\net5.0\Lab3_Services.runtimeconfig.json
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\bin\Debug\net5.0\Lab3_Services.runtimeconfig.dev.json
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\bin\Debug\net5.0\Lab3_Services.dll
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\bin\Debug\net5.0\ref\Lab3_Services.dll
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\bin\Debug\net5.0\Lab3_Services.pdb
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\obj\Debug\net5.0\Lab3_Services.csproj.AssemblyReference.cache
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\obj\Debug\net5.0\Lab3_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\obj\Debug\net5.0\Lab3_Services.AssemblyInfoInputs.cache
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\obj\Debug\net5.0\Lab3_Services.AssemblyInfo.cs
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\obj\Debug\net5.0\Lab3_Services.csproj.CoreCompileInputs.cache
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\obj\Debug\net5.0\Lab3_Services.dll
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\obj\Debug\net5.0\ref\Lab3_Services.dll
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\obj\Debug\net5.0\Lab3_Services.pdb
+C:\Users\kotge\RiderProjects\Lab3_Services\Lab3_Services\obj\Debug\net5.0\Lab3_Services.genruntimeconfig.cache
